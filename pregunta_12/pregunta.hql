@@ -10,6 +10,8 @@ columna 3 es:
 
     a    aaa    5
 
+Apache Hive se ejecutará en modo local (sin HDFS).
+
 Escriba el resultado a la carpeta `output` de directorio de trabajo.
 
 */
