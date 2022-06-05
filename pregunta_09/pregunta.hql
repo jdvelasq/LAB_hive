@@ -6,6 +6,8 @@ Pregunta
 Escriba una consulta que retorne la columna `tbl0.c1` y el valor 
 correspondiente de la columna `tbl1.c4` para la columna `tbl0.c2`.
 
+Apache Hive se ejecutará en modo local (sin HDFS).
+
 Escriba el resultado a la carpeta `output` de directorio de trabajo.
 
 */
