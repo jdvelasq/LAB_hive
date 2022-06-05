@@ -6,6 +6,8 @@ Pregunta
 Escriba una consulta que retorne la primera columna, la cantidad de 
 elementos en la columna 2 y la cantidad de elementos en la columna 3
 
+Apache Hive se ejecutará en modo local (sin HDFS).
+
 Escriba el resultado a la carpeta `output` de directorio de trabajo.
 
 */
