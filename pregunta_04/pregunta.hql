@@ -5,6 +5,8 @@ Pregunta
 Escriba una consulta que retorne los valores únicos de la columna `t0.c5` 
 (ordenados). 
 
+Apache Hive se ejecutará en modo local (sin HDFS).
+
 Escriba el resultado a la carpeta `output` de directorio de trabajo.
 */
 
